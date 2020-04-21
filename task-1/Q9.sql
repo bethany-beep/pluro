@@ -1,0 +1,1 @@
+SELECT date_of_fx, max(rate) FROM fx_task GROUP BY date_of_fx;
