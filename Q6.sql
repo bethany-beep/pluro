@@ -1,1 +1,0 @@
-SELECT count(*) FROM fx_task WHERE rate >  2;

@@ -1,1 +1,0 @@
-SELECT COUNT(*)  FROM (SELECT DISTINCT(currency) FROM exchange_rates);

@@ -1,1 +1,0 @@
-Select count(*) from exchange_rates;
